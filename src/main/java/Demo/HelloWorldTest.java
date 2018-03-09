@@ -8,7 +8,7 @@ public class HelloWorldTest {
 	public void testHelloWorld1() {
 		HelloWorld hello = new HelloWorld();
 		
-		Assert.assertEquals(HelloWorld.HelloWorld1(), "Hello World1");
+		Assert.assertEquals(HelloWorld.HelloWorld1(), "Hello World");
 		
 	}
 
