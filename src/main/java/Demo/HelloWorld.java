@@ -6,7 +6,7 @@ public class HelloWorld {
 	}
 	
 	public static String HelloWorld1() {
-		return "Hello World1";
+		return "Test";
 	}
 
 }
