@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel tests" >
+  <test name="Test One">
+    <classes>
+      <class name="Demo.HelloWorldTest" />
+    </classes>
+  </test>
+</suite>
